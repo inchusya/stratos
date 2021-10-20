@@ -1,0 +1,19 @@
+a {
+  color: inherit;
+}
+.library {
+  height: 681.21px;
+  width: 1400px;
+  display: block;
+  position: relative;
+  background-image: url("library.svg");
+  background-size: 100% auto;
+
+  .floor {
+  height: 427.66px;
+  width: 905.52px;
+  display: block;
+  position: relative;
+  background-image: url("1-floor.svg");
+  background-size: 100% auto;
+  }
