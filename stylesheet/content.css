@@ -16,7 +16,7 @@ body {
   display: block;
   background-image: url("../img/library.svg");
   background-size: 100% auto;
-  margin:0 0 0 0
+  margin: 156.9px 0 0 0
   }
 
   .screen2{
@@ -25,24 +25,28 @@ body {
     display: block;
     background-image: url("../img/card.svg");
     background-size: 100% auto;
+    margin:0 0 0 0
   }
   .books{
-    width: 1264px;
+    width: 1266px;
     height: 686px;
     display: block;
     background-image: url("../img/books.svg");
+    margin: 3000.71px 0px 0px 73.2px
   }
   .booksmall{
     width: 70px;
     height: 676px;
     display: block;
     background-image: url("../img/booksmall.svg");
+    margin: 374.42px 0px 0px 104.23px
   }
   .booksopen{
     width: 1022px;
     height: 676px;
     display: block;
     background-image: url("../img/booksopen.svg");
+    margin: 374.42px 0px 0px 76.42px
   }
   .floorsecond{
     width: 1012px;
