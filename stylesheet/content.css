@@ -12,18 +12,59 @@ body {
 }
 .library {
   width: 1400px;
-  height: 682px
+  height: 686px
   display: block;
   background-image: url("../img/library.svg");
   background-size: 100% auto;
   margin: 156.9px 0 0 0
+  }
+  .headtext{
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 140px;
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 0px;
+    color: #FF6262;
+    z-index: 5;
+  }
+  .text1{
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #FF6262;
+    z-index: 5;
+  }
+  .text2{
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 29px;
+    text-align: left;
+    padding-top: 268px;
+    padding-right: 0px;
+    color: #FF6262;
+    z-index: 5;
+  }
+
+  .year{
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 18px;
+    text-align: right;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #FF6262;
+    z-index: 5;
   }
 
   .screen2{
     width: 1299.85px;
     height: 905.52px
     display: block;
-    background-image: url("../img/card.svg");
+    background-image: url("../img/screensecond.svg");
     background-size: 100% auto;
     margin:0 0 0 0
   }
@@ -32,7 +73,17 @@ body {
     height: 686px;
     display: block;
     background-image: url("../img/books.svg");
-    margin: 3000.71px 0px 0px 73.2px
+    margin: 1000.71px 0px 0px 73.2px
+  }
+  .nachertania{
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 18px;
+    text-align: right;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #FF6262;
+    z-index: 5;
   }
   .booksmall{
     width: 70px;
