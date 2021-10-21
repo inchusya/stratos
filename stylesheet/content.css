@@ -10,9 +10,9 @@ body {
   background-repeat: no-repeat;
   background-position: center top;
 }
-#library {
+.library {
   width: 1400px;
-  height: 681.21px
+  height: 682px
   display: block;
   background-image: url("../img/library.svg");
   background-size: 100% auto;
@@ -33,20 +33,20 @@ body {
     background-image: url("../img/books.svg");
   }
   .booksmall{
-    width: 68px;
-    height: 674px;
+    width: 70px;
+    height: 676px;
     display: block;
     background-image: url("../img/booksmall.svg");
   }
   .booksopen{
-    width: 1020px;
-    height: 674px;
+    width: 1022px;
+    height: 676px;
     display: block;
     background-image: url("../img/booksopen.svg");
   }
   .floorsecond{
-    width: 1010px;
-    height: 574px;
+    width: 1012px;
+    height: 575px;
     display: block;
     background-image: url("../img/floorsecond.svg");
   }
