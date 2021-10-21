@@ -329,6 +329,54 @@ body {
     margin-top: 179px;
     margin-left: 298px;
   }
+  .avtor{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 102px;
+    padding-left: 692px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .cabin{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 31px;
+    padding-left: 692px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .prof{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 147px;
+    padding-left: 0px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: -207px;
+  }
+  .bukin{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 31px;
+    padding-left: 0px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: -208px;
+  }
   .frame{
     width: 491px;
     height: 144px;
@@ -369,4 +417,52 @@ body {
     background-image: url("../img/papers.svg");
     margin-top: 245px;
     margin-left: 103px;
+  }
+  .ruderman{
+    font-family: "stratos";
+    font-weight: 500;
+    font-style: normal;
+    font-size: 62px;
+    text-align: left;
+    padding-top: 11px;
+    padding-left: 718px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .about{
+    font-family: "stratos";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 393px;
+    color: #48494B;
+    margin-top: -10px;
+    margin-left: 0px;
+  }
+  .yuri{
+    font-family: "stratos";
+    font-weight: 500;
+    font-style: normal;
+    font-size: 62px;
+    text-align: left;
+    padding-top: 93px;
+    padding-left: 510px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .about2{
+    font-family: "stratos";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 393px;
+    color: #48494B;
+    margin-top: -10px;
+    margin-left: 0px;
   }
