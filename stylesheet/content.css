@@ -25,8 +25,59 @@ body {
     display: block;
     background-image: url("../img/card.svg");
     background-size: 100% auto;
-      margin:0 0 0 0
   }
+  .books{
+    width: 1264px;
+    height: 686px;
+    display: block;
+    background-image: url("../img/books.svg");
+  }
+  .booksmall{
+    width: 68px;
+    height: 674px;
+    display: block;
+    background-image: url("../img/booksmall.svg");
+  }
+  .booksopen{
+    width: 1020px;
+    height: 674px;
+    display: block;
+    background-image: url("../img/booksopen.svg");
+  }
+  .floorsecond{
+    width: 1010px;
+    height: 574px;
+    display: block;
+    background-image: url("../img/floorsecond.svg");
+  }
+  .frame{
+    width: 488px;
+    height: 141px;
+    display: block;
+    background-image: url("../img/floorsecond.svg");
+  }
+
+  .shelf{
+    width: 1400px;
+    height: 1265px;
+    display: block;
+    background-image: url("../img/floorsecond.svg");
+  }
+
+  .papers{
+    width: 1458px;
+    height: 998px;
+    display: block;
+    background-image: url("../img/floorsecond.svg");
+  }
+
+
+
+
+
+
+
+
 a {
   color: inherit;
 }
