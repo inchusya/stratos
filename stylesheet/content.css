@@ -30,7 +30,7 @@ body {
 a {
   color: inherit;
 }
-h1, h2, h3, h4, p, ul, ol, blockquote, div, hr {
+h1, h2, h3, h4, p, ul, ol, blockquote, hr {
   font-family: 'stratos', sans-serif;
   width: 700px;
   margin: 0 auto;
