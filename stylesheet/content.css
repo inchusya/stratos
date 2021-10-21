@@ -12,21 +12,22 @@ body {
 }
 .library {
   width: 1400px;
-  height: 686px
+  height: 650px;
   display: block;
   background-image: url("../img/library.svg");
   background-size: 100% auto;
   margin: 156.9px 0 0 0
   }
+
   .headtext{
     font-family: "stratos";
     font-weight: normal;
     font-size: 140px;
-    text-align: center;
+    text-align: left;
     padding-top: 0px;
-    padding-left: 0px;
+    padding-left: 500px;
     color: #FF6262;
-    z-index: 5;
+
   }
   .text1{
     font-family: "stratos";
@@ -34,19 +35,21 @@ body {
     font-size: 18px;
     text-align: left;
     padding-top: 0px;
-    padding-right: 0px;
+    padding-left: 376px;
     color: #FF6262;
-    z-index: 5;
+    margin-top: -148px;
   }
   .text2{
+    width: 458px;
+    height: 111px;
     font-family: "stratos";
     font-weight: normal;
     font-size: 29px;
     text-align: left;
-    padding-top: 268px;
+    padding-top: 275px;
     padding-right: 0px;
     color: #FF6262;
-    z-index: 5;
+    margin-left: 600px;
   }
 
   .year{
@@ -55,18 +58,58 @@ body {
     font-size: 18px;
     text-align: right;
     padding-top: 0px;
-    padding-right: 0px;
+    padding-right: 390px;
     color: #FF6262;
-    z-index: 5;
+    margin-top: -41px;
   }
 
-  .screen2{
+  .screensecond{
     width: 1299.85px;
-    height: 905.52px
+    height: 905.52px;
     display: block;
     background-image: url("../img/screensecond.svg");
     background-size: 100% auto;
-    margin:0 0 0 0
+    margin-top: 125px;
+    margin-left: 56px;
+  }
+  .text3{
+    width: 277px;
+    height: 137px;
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 14px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #48494B;
+    margin-top: -20px;
+    margin-left: 684px;
+  }
+  .text4{
+    width: 296px;
+    height: 36px;
+    font-family: "stratos";
+    font-weight:lighter;
+    font-size: 28px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #48494B;
+    margin-top: -177px;
+    margin-left: 187px;
+  }
+  .text5{
+    width: 304px;
+    height: 69px;
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 55px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #48494B;
+    margin-top: -177px;
+    margin-left: 187px;
   }
   .books{
     width: 1266px;
@@ -125,65 +168,3 @@ body {
     display: block;
     background-image: url("../img/floorsecond.svg");
   }
-
-
-
-
-
-
-
-
-a {
-  color: inherit;
-}
-h1, h2, h3, h4, p, ul, ol, blockquote, hr {
-  font-family: 'stratos', sans-serif;
-  width: 700px;
-  margin: 0 auto;
-}
-h1{
-  font-family: 'stratos', sans-serif;
-  font-weight: normal;
-  font-size: 140px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 176px;
-  letter-spacing: 0em;
-  text-align: left;
-  height: 176px;
-  width: 463px;
-  left: 504.94830322265625px;
-  top: 156.90478515625px;
-  border-radius: nullpx;
-  color: #FF6262;
-  margin-top: 157px;
-  margin-right: 472px;
-  margin-left: 505;
-}
-h2{
-  font-family: 'stratos', sans-serif;
-  font-size: 29px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 37px;
-  letter-spacing: 0em;
-  text-align: left;
-  height: 111px;
-  width: 457.1776428222656px;
-  left: 608.3731079101562px;
-  top: 600.8134765625px;
-  border-radius: nullpx
-  font-size: 29px;
-  font-weight: 400;
-  line-height: 37px;
-  letter-spacing: 0em;
-  text-align: left;
-  color: #FF6262;
-
-}
-p{
-  font-family: 'stratos', sans-serif;
-  font-weight: normal;
-  font-size: 18;
-
-}
