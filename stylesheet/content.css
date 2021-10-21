@@ -108,9 +108,72 @@ body {
     padding-top: 0px;
     padding-right: 0px;
     color: #48494B;
-    margin-top: -177px;
-    margin-left: 187px;
+    margin-top: 53px;
+    margin-left: 114px;
   }
+  .text6{
+    width: 182px;
+    height: 69px;
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 55px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #48494B;
+    margin-top: -45px;
+    margin-left: 114px;
+  }
+  .text7{
+    width: 162px;
+    height: 180px;
+    font-family: "stratos";
+    font-weight: normal;
+    font-size: 55px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #48494B;
+    margin-top: -45px;
+    margin-left: 114px;
+  }
+  .text8{
+    width: 485px;
+    height: 37px;
+    font-family: "stratos";
+    font-weight: 100;
+    font-style: normal;
+    font-size: 29px;
+    text-align: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    color: #FF6262;
+    margin-top: 386px;
+    margin-left: 74px;
+  }
+.cardsmall{
+  width: 421px;
+  height: 701px;
+  display: block;
+  background-image: url("../img/cardsmall.svg");
+  background-size: 100% auto;
+  margin-top: 293px;
+  margin-left: 175px;
+}
+.ol{
+  width: 310px;
+  height: 184px;
+  font-family: "stratos";
+  font-weight: normal;
+  font-style: italic;
+  font-size: 18px;
+  text-align: left;
+  padding-top: 0px;
+  padding-right: 0px;
+  color: #48494B;
+  margin-top: -478px;
+    margin-left: 812px;
+}
   .books{
     width: 1266px;
     height: 686px;
