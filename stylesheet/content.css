@@ -249,7 +249,7 @@ body {
     height: 676px;
     display: block;
     background-image: url("../img/booksopen.svg");
-    margin-top: -692px;
+    margin-top: -675px;
     margin-left: 335px;
   }
   .goriz{
@@ -260,12 +260,67 @@ body {
     font-style: normal;
     font-size: 24px;
     text-align: left;
-    padding-top: 52px;
+    padding-top: 35px;
     padding-left: 95px;
     color: #FF6262;
     margin-top: 0px;
     margin-left: 0px;
+  }
+  .p175{
+    width: 361px;
+    height: 60px;
+    font-family: "stratos";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    text-align: left;
+    padding-top: 72px;
+    padding-left: 254px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .p176{
+    font-family: "stratos";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    text-align: left;
+    padding-top: 72px;
+    padding-left: 741px;
+    color: #FF6262;
+    margin-top: -144px;
+    margin-left: 0px;
+  }
+  .propis{
+    font-family: "stratos";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    text-align: left;
+    padding-top: 72px;
+    padding-left: 741px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+    transform: rotate(-90deg);
+    width: 109px;
+    height: 16px;
+    left: 814.65px;
+    top: 4234.01px;
 
+  }
+  .ris{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+    text-align: left;
+    padding-top: 72px;
+    padding-left: 741px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
   }
   .floorsecond{
     width: 1012px;
