@@ -20,10 +20,10 @@ src: url("../font/StratosLCG-Desktop-blackitalic.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../StratosLCG-Desktop-extralight.otf") format("truetype");
+src: url("../font/StratosLCG-Desktop-extralight.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../StratosLCG-Desktop-semilight.otf") format("truetype");
+src: url("../font/StratosLCG-Desktop-semilight.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
