@@ -4,7 +4,7 @@
 @import "sidebar.css";
 @font-face {
 font-family: "stratos";
-src: url("../StratosLCG-Desktop-regular.otf") format("truetype");
+src: url("../font/StratosLCG-Desktop-regular.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
