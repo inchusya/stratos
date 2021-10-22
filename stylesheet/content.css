@@ -72,6 +72,15 @@ body {
     margin-top: 145px;
     margin-left: 56px;
   }
+  .group{
+    width: 421px;
+    height: 187px;
+    display: block;
+    background-image: url("../img/group109.svg");
+    background-size: 100% auto;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
   .text3{
     width: 277px;
     height: 137px;
@@ -92,7 +101,7 @@ body {
     font-weight:lighter;
     font-size: 28px;
     text-align: left;
-    padding-top: 0px;
+    padding-top: 50px;
     padding-right: 0px;
     color: #48494B;
     margin-top: -177px;
@@ -148,7 +157,7 @@ body {
     padding-top: 0px;
     padding-right: 0px;
     color: #FF6262;
-    margin-top: 366px;
+    margin-top: 122px;
     margin-left: 74px;
   }
 
@@ -156,12 +165,22 @@ body {
   width: 421px;
   height: 701px;
   display: block;
-  background-image: url("../img/cardsmall.svg");
+  background-image: url("../img/nachert.svg");
   background-size: 100% auto;
-  margin-top: 95px;
-  margin-left: 175px;
+  padding-top: 0px;
+  padding-left: 0px;
+  margin-top: 571px;
+  margin-left: 118px;;
 }
-
+.arrow{
+  width: 280px;
+  height: 730px;
+  display: block;
+  background-image: url("../img/arrow.svg");
+  background-size: 100% auto;
+  margin-top: -717px;
+  margin-left: 635px
+}
 .ol{
   width: 310px;
   height: 184px;
@@ -186,71 +205,58 @@ body {
   padding-top: 0px;
   padding-right: 0px;
   color: #48494B;
-  margin-top: 123px;
-  margin-left: 60px;
+  margin-top: 176px;
+  margin-left: 4px;
 }
-}
-.list{
-  width: 229px;
-  height: 714px;
-  font-family: "stratos";
-  font-weight:lighter;
-  font-size: 24px;
-  text-align: left;
-  padding-top: 0px;
-  padding-right: 0px;
-  color: #48494B;
-  margin-top: -177px;
-  margin-left: 187px;
-}
+
   .books{
     width: 1266px;
     height: 686px;
     display: block;
     background-image: url("../img/books.svg");
-    margin-top: 183px;
-    margin-left: 64px;
+    margin-top: 173px;
+    margin-left: 8px;
   }
-  .nachertania{
+  .rublen{
+    width: 434px;
+    height: 126px;
     font-family: "stratos";
-    font-weight: normal;
+    font-weight: 400;
     font-size: 18px;
-    text-align: right;
-    padding-top: 0px;
-    padding-right: 0px;
-    color: #FF6262;
-    z-index: 5;
-  }
-  .booksmall{
-    width: 70px;
-    height: 676px;
-    display: block;
-    background-image: url("../img/booksmall.svg");
-    margin-top: 318px;
-    margin-left: 95px;
-  }
-  .nizniy{
-    width: 279px;
-    height: 45px;
-    font-family: "stratos";
-    font-weight: 300;
-    font-style: normal;
-    font-size: 36px;
     text-align: left;
-    padding-top: 366px;
-    padding-left: 74px;
-    color: #FF6262;
+    padding-top: 185px;
+    padding-left: 40px;
+    color: #48494B;
     margin-top: 0px;
     margin-left: 0px;
-    transform: rotate(-90deg);
   }
+
+  .booksmall{
+    width: 29px;
+    height: 492px;
+    display: block;
+    background-image: url("../img/booksmall.svg");
+    padding-top: 185px;
+    padding-left: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .lower{
+    width: 45px;
+    height: 279px;
+    display: block;
+    background-image: url("../img/lowercase.svg");
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
   .booksopen{
     width: 1022px;
     height: 676px;
     display: block;
     background-image: url("../img/booksopen.svg");
-    margin-top: -675px;
-    margin-left: 335px;
+    margin-top: -739px;
+    margin-left: 279px;
   }
   .goriz{
     width: 361px;
@@ -417,6 +423,38 @@ body {
     background-image: url("../img/papers.svg");
     margin-top: 245px;
     margin-left: 103px;
+  }
+  .box{
+    width: 452px;
+    height: 63px;
+    display: block;
+    background-image: url("../img/box.svg");
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .kateg{
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 0px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .creators{
+    font-family: "stratos";
+    font-weight: 500;
+    font-style: italic;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 0px;
+    color: #48494B;
+    margin-top: 0px;
+    margin-left: 0px;
   }
   .ruderman{
     font-family: "stratos";
