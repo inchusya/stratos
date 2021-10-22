@@ -6,7 +6,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'stratos', sans-serif;
   background: #EFE3CF;
-  
+
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -374,7 +374,7 @@ body {
   }
   .floorsecond{
     width: 1012px;
-    height: 575px;
+    height: 577px;
     background-image: url("../img/group112.svg");
     margin-top: 178px;
     margin-left: 242px;
@@ -453,7 +453,7 @@ body {
 
   .shelf{
     width: 1400px;
-    height: 1265px;
+    height: 1267px;
     display: block;
     background-image: url("../img/shelf.svg");
     margin-top: 133px;
@@ -462,7 +462,7 @@ body {
 
   .papers{
     width: 1458px;
-    height: 998px;
+    height: 900px;
     display: block;
     background-image: url("../img/papers.svg");
     margin-top: 15px;
