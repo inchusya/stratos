@@ -6,7 +6,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'stratos', sans-serif;
   background: #EFE3CF;
-  background-image: url("../img/stratos.figma.svg");
+  
   background-repeat: no-repeat;
   background-position: center top;
 }
