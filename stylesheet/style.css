@@ -19,3 +19,7 @@ font-weight: lighter;
 src: url("../font/StratosLCG-Desktop-blackitalic") format("truetype");
 font-style: normal;
 font-weight: lighter;
+
+src: url("../StratosLCG-Desktop-extralight") format("truetype");
+font-style: normal;
+font-weight: lighter;
