@@ -4,6 +4,6 @@
 @import "sidebar.css";
 @font-face {
 font-family: "stratos";
-src: url("font/stratos") format("truetype");
+src: url("../font/stratos") format("truetype");
 font-style: normal;
 font-weight: lighter;
