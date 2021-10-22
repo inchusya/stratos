@@ -76,10 +76,12 @@ body {
     width: 421px;
     height: 187px;
     display: block;
-    background-image: url("../img/group109.svg");
+    background-image: url("../img/groups109.svg");
     background-size: 100% auto;
-    margin-top: 0px;
-    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    margin-top: -217px;
+    margin-left: 110px;
   }
   .text3{
     width: 277px;
@@ -157,13 +159,13 @@ body {
     padding-top: 0px;
     padding-right: 0px;
     color: #FF6262;
-    margin-top: 122px;
+    margin-top: 339px;
     margin-left: 74px;
   }
 
 .cardsmall{
   width: 421px;
-  height: 701px;
+  height: 699px;
   display: block;
   background-image: url("../img/nachert.svg");
   background-size: 100% auto;
@@ -174,7 +176,7 @@ body {
 }
 .arrow{
   width: 280px;
-  height: 730px;
+  height: 700px;
   display: block;
   background-image: url("../img/arrow.svg");
   background-size: 100% auto;
@@ -233,29 +235,22 @@ body {
 
   .booksmall{
     width: 29px;
-    height: 420px;
+    height: 310px;
     display: block;
-    background-image: url("../img/booksmall.svg");
-    padding-top: 185px;
+    background-image: url("../img/group111.svg");
+    padding-top: 366px;
     padding-left: 40px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 64px;
+    margin-left: 39px;
   }
-  .lower{
-    width: 45px;
-    height: 279px;
-    display: block;
-    background-image: url("../img/lowercase.svg");
-    margin-top: 0px;
-    margin-left: 0px;
-  }
+
 
   .booksopen{
     width: 1022px;
     height: 676px;
     display: block;
     background-image: url("../img/booksopen.svg");
-    margin-top: -739px;
+    margin-top: -676px;
     margin-left: 279px;
   }
   .goriz{
@@ -298,6 +293,56 @@ body {
     margin-top: -144px;
     margin-left: 0px;
   }
+  .p253{
+    font-family: "stratos";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 89px;
+    padding-left: 50px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .p254{
+    font-family: "stratos";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 932px;
+    color: #FF6262;
+    margin-top: -41px;
+    margin-left: 0px;
+  }
+  .osoben{
+    width: 344px;
+    font-family: "stratos";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 54px;
+    padding-left: 528px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .geomet{
+    width: 425px;
+    font-family: "stratos";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 48px;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 47px;
+    color: #FF6262;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
   .propis{
     font-family: "stratos";
     font-weight: 600;
@@ -314,7 +359,6 @@ body {
     height: 16px;
     left: 814.65px;
     top: 4234.01px;
-
   }
   .ris{
     font-family: "stratos";
@@ -323,17 +367,17 @@ body {
     font-size: 13px;
     text-align: left;
     padding-top: 72px;
-    padding-left: 741px;
+    padding-left: 521px;
     color: #FF6262;
-    margin-top: 0px;
+    margin-top: -102px;
     margin-left: 0px;
   }
   .floorsecond{
     width: 1012px;
     height: 575px;
-    background-image: url("../img/floorsecond.svg");
-    margin-top: 179px;
-    margin-left: 298px;
+    background-image: url("../img/group112.svg");
+    margin-top: 178px;
+    margin-left: 242px;
   }
   .avtor{
     font-family: "stratos";
@@ -388,8 +432,8 @@ body {
     height: 144px;
     display: block;
     background-image: url("../img/frame.svg");
-    margin-top: 151px;
-    margin-left: 424px;
+    margin-top: 153px;
+    margin-left: 369px;
   }
   .section{
     width: 456px;
@@ -413,7 +457,7 @@ body {
     display: block;
     background-image: url("../img/shelf.svg");
     margin-top: 133px;
-    margin-left: 70px;
+    margin-left: 14px;
   }
 
   .papers{
@@ -421,15 +465,15 @@ body {
     height: 998px;
     display: block;
     background-image: url("../img/papers.svg");
-    margin-top: 245px;
-    margin-left: 103px;
+    margin-top: 15px;
+    margin-left: 46px;
   }
   .box{
     width: 452px;
     height: 63px;
     display: block;
     background-image: url("../img/box.svg");
-    margin-top: 0px;
+    margin-top: 168px;
     margin-left: 0px;
   }
   .kateg{
@@ -438,8 +482,8 @@ body {
     font-style: normal;
     font-size: 18px;
     text-align: left;
-    padding-top: 0px;
-    padding-left: 0px;
+    padding-top: 20px;
+    padding-left: 17px;
     color: #FF6262;
     margin-top: 0px;
     margin-left: 0px;
@@ -451,9 +495,9 @@ body {
     font-size: 18px;
     text-align: left;
     padding-top: 0px;
-    padding-left: 0px;
+    padding-left: 115px;
     color: #48494B;
-    margin-top: 0px;
+    margin-top: -41px;
     margin-left: 0px;
   }
   .ruderman{
