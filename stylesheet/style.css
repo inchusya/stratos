@@ -8,18 +8,22 @@ src: url("../StratosLCG-Desktop-regular.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../font/StratosLCG-Desktop-black") format("truetype");
+src: url("../font/StratosLCG-Desktop-black.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../font/StratosLCG-Desktop-blackitalic") format("truetype");
+src: url("../font/StratosLCG-Desktop-blackitalic.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../font/StratosLCG-Desktop-blackitalic") format("truetype");
+src: url("../font/StratosLCG-Desktop-blackitalic.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../StratosLCG-Desktop-extralight") format("truetype");
+src: url("../StratosLCG-Desktop-extralight.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../StratosLCG-Desktop-semilight.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
