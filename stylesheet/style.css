@@ -24,6 +24,54 @@ src: url("../font/StratosLCG-Desktop-extralight.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../font/StratosLCG-Desktop-semilight.otf") format("truetype");
+src: url("../font/StratosLCG-Desktop-semilightitalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-bold.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-bolditalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-extrabold.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-extrabolditalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-extralightitalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-italic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-light.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-lightitalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-medium.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-semibold.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-semibolditalic.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-semili.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
