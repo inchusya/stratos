@@ -72,6 +72,10 @@ src: url("../font/StratosLCG-Desktop-semibolditalic.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
 
-src: url("../font/StratosLCG-Desktop-semili.otf") format("truetype");
+src: url("../font/StratosLCG-Desktop-thin.otf") format("truetype");
+font-style: normal;
+font-weight: lighter;
+
+src: url("../font/StratosLCG-Desktop-thinitalic.otf") format("truetype");
 font-style: normal;
 font-weight: lighter;
