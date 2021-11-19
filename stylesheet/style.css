@@ -7,3 +7,8 @@ font-family: "stratos";
 src: url("../font/StratosLCG-Desktop-regular.otf") format("truetype");
 font-style: normal;
 font-weight: normal;
+
+
+src: url("../font/StratosLCG-Desktop-light.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
